@@ -1,2 +1,4 @@
 # PracticeBar
-If I look back I am lost.
+If I look back I am lost.  
+本仓库的目的在于养成每天学习和记录的习惯，以及锻炼书写文档的能力。  
+采用按照每天一个文件夹的形式，文件夹内可以包含当天所学知识的笔记，或者实操工程。  
